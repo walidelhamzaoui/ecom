@@ -1,0 +1,56 @@
+
+header{
+background-color: black;
+color:white;
+padding:20px;
+display: flex;
+justify-content: center;
+justify-items: center;
+height:90px;position: relative;bottom:190px;
+
+
+}
+.h41{
+font-size:32px;
+margin:10px;
+font-weight: bold;
+
+}
+.non{
+ display: flex;
+ height:290px;
+ margin-top:35px;list-style-type:none; 
+ }
+ .li{
+ 
+ 
+padding:20px;
+ font-size:50px;
+ margin:25px}
+ 
+ .aimg{
+ margin:5px;position:relative; 
+bottom: 90px;
+ 
+ height: 230px;
+ }
+ .inp{ 
+   height:60px;width: 420px; font-size: 20px; ;position: relative;top:20px;left:570px;background-color: #eceff1;border-radius:20px;padding:10px;;}
+ 
+.search{
+position:relative;left:500px;bottom:0px;height:100px;width:40px;}
+.favori{
+color:black;position:relative;left:570px;top:20px;width:50px;
+height:45px}
+.favori1{
+color: black;position:relative;left:550px;bottom:10px;height:105px;width:40px;}
+.h55{
+display: flex;justify-content: center;
+justify-self: center; position:relative;
+left:20%;margin-top:20px;bottom:40px;}
+.ak{
+font-size:50px;margin:25px;}
+.bn{
+font-size: 50px;position: relative;bottom:10px;}
+
+

@@ -1,0 +1,22 @@
+.ds{
+display: flex; justify-content:space-around;
+margin: 10px;}
+.nb{
+display: flex;
+flex-direction: column;
+;}
+.cv{
+height:900px ;width:100%;margin-left:10PX;}
+.kl{
+margin:20px;
+color: black; font-size:90px;position: relative; left:5%;}
+.cx{
+font-size:36px;
+margin-top:10px;
+}
+.a{
+text-decoration: none; color:#a6a6a6;font-size:39px}
+.top{
+position: relative;bottom:150px;}
+hr{
+border-radius: 10px; height:360px;position: relative;bottom:850px; background-color: red;}

@@ -1,0 +1,15 @@
+.dv{
+display: flex;
+flex-direction: row;
+background-color: white;
+/* box-shadow: 7px 5px 6px black; */
+position: relative;
+bottom:160px;right:50px
+}
+.imhea{
+height:820px;width:20% ; margin-top:100px;
+
+}
+.h99{
+position: relative;
+left:13%;;font-size:60px;}
